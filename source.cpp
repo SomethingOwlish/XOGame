@@ -55,7 +55,7 @@ void dispField(char **field,int x,int y)
 
 bool isWinner(char** arr)
 {
-    bool win = false;//нолики победили если эти ячейки массива заполнеты ноликами:
+    bool win = false;
     if (arr[0][0] != 'E' && arr[0][0] == arr[0][1] && arr[0][0] == arr[0][2]) win = true;//первая строка
     if (arr[1][0] != 'E' && arr[1][0] == arr[1][1] && arr[1][0] == arr[1][2]) win = true;//вторая строка
     if (arr[2][0] != 'E' && arr[2][0] == arr[2][1] && arr[2][0] == arr[2][2]) win = true;//третья строка
