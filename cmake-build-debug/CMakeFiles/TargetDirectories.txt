@@ -1,0 +1,3 @@
+/Users/morganvalravn/Documents/Projects/XOGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/morganvalravn/Documents/Projects/XOGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/morganvalravn/Documents/Projects/XOGame/cmake-build-debug/CMakeFiles/XOGame.dir

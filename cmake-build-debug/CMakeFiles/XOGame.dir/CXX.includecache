@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/morganvalravn/Documents/Projects/XOGame/ganeForTwo.cpp
+string
+-
+iostream
+-
+source.h
+/Users/morganvalravn/Documents/Projects/XOGame/source.h
+
+/Users/morganvalravn/Documents/Projects/XOGame/main.cpp
+source.h
+/Users/morganvalravn/Documents/Projects/XOGame/source.h
+iostream
+-
+string
+-
+
+/Users/morganvalravn/Documents/Projects/XOGame/source.cpp
+string
+-
+iostream
+-
+
+/Users/morganvalravn/Documents/Projects/XOGame/source.h
+iostream
+-
+string
+-
+
